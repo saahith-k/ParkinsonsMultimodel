@@ -58,7 +58,7 @@ ParkinsonsMultimodel/
 
 ### 1. Clone This Repository
 
-git clone https://github.com/YOUR_USERNAME/ParkinsonsMultimodel.git
+git clone https://github.com/saahith-k/ParkinsonsMultimodel.git
 cd ParkinsonsMultimodel
 
 
