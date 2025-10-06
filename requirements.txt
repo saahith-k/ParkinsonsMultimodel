@@ -1,7 +1,9 @@
 streamlit
-tensorflow
+tensorflow==2.15.0
+keras==3.3.3
 scikit-learn
 librosa
 praat-parselmouth
 pillow
 numpy
+joblib
