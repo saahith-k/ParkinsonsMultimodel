@@ -1,6 +1,6 @@
 streamlit
-tensorflow
-keras
+tensorflow==2.20.0
+keras==3.9.0
 scikit-learn
 librosa
 praat-parselmouth
